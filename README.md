@@ -40,6 +40,7 @@ Take a look at some of my highlighted work below or explore my repositories. I r
 I'm always open to collaborating on meaningful Laravel projects or freelance opportunities.
 
 - 📧 Email: smimranhossain45@gmail.com
+- 📞 Phone: 01517141272
 
 Thanks for visiting my profile!
 
