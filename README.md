@@ -17,7 +17,7 @@ I'm a **mid-level Laravel developer** with a passion for clean code, scalable sy
 ## 🛠️ Tech Stack
 
 - **Backend:** Laravel, PHP, REST API, Sanctum, Livewire, Queues
-- **Frontend:** Blade, Vue.js, Inertia.js, Tailwind CSS
+- **Frontend:** Blade,React.js, Vue.js, Inertia.js, Tailwind CSS
 - **Database:** MySQL, PostgreSQL, Eloquent ORM, Query Builder
 - **Dev Tools:** Git, GitHub, VS Code, Postman, Laravel Debugbar
 - **Others:** Docker, cPanel, NGINX/Apache, Cron Jobs, Composer
