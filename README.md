@@ -40,7 +40,9 @@ Take a look at some of my highlighted work below or explore my repositories. I r
 I'm always open to collaborating on meaningful Laravel projects or freelance opportunities.
 
 - 📧 Email: smimranhossain45@gmail.com
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801517141272)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801517141272)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mdimranh.sagor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranhossain45)
 - 📞 Phone: 01517141272
 
 Thanks for visiting my profile!
